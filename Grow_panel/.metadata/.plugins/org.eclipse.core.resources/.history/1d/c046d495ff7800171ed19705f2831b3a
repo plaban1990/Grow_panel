@@ -1,0 +1,61 @@
+package growfit.Panel;
+import java.io.File;
+import java.io.IOException;
+import java.util.concurrent.TimeUnit;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterTest;
+public class Testcase1 extends BaseTest{
+	WebDriver driver;
+	
+  @Test
+  public void f(){
+	  
+	  try{
+		  
+		  
+		  
+	  }
+	  catch(Exception e){
+		  
+		File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		try {
+			FileUtils.copyFile(scrFile, new File("D\\tmp\\screenshot.png"));
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		  System.out.println(e); 
+	  }
+	  
+  }
+  
+  @BeforeTest
+  public void beforeTest() {
+	
+	 
+	System.setProperty("webdriver.chrome.driver", "D:/plaban/chromedriver_win32/chromedriver.exe");  
+	driver=new ChromeDriver();
+	driver.manage().window().maximize();
+	driver.get("http://52.74.66.238");
+	
+	driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+	
+  }
+
+  @AfterTest
+  public void afterTest() {
+  
+    	driver.close();
+    	driver.quit();
+      } 
+	  
+	
+  }
+
+

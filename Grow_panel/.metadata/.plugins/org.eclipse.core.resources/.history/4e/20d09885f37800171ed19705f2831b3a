@@ -1,0 +1,102 @@
+package growfit.Panel;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.concurrent.TimeUnit;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.ITestResult;
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterTest;
+
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
+import com.aventstack.extentreports.markuputils.ExtentColor;
+import com.aventstack.extentreports.markuputils.MarkupHelper;
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+import com.aventstack.extentreports.reporter.configuration.ChartLocation;
+import com.aventstack.extentreports.reporter.configuration.Theme;
+
+public class Testcase1 {
+	WebDriver driver;
+	public static ExtentHtmlReporter htmlReporter;
+    public static ExtentReports extent;
+    public static ExtentTest test;
+     
+  @Test
+  public void f() throws IOException {
+	
+	  test = extent.createTest("f");
+	  
+	  try{
+		  
+		  
+		  
+	  }
+	  catch(Exception e){
+		  
+		File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		FileUtils.copyFile(scrFile, new File("D\\tmp\\screenshot.png"));
+		  System.out.println(e); 
+	  }
+	  
+  }
+  
+  @BeforeTest
+  public void beforeTest() {
+	  htmlReporter = new ExtentHtmlReporter(System.getProperty("user.dir") +"/test-output/MyOwnReport.html");
+      extent = new ExtentReports();
+      extent.attachReporter(htmlReporter);
+       
+      extent.setSystemInfo("OS", "Mac Sierra");
+      extent.setSystemInfo("Host Name", "Krishna");
+      extent.setSystemInfo("Environment", "QA");
+      extent.setSystemInfo("User Name", "Krishna Sakinala");
+       
+      htmlReporter.config().setChartVisibilityOnOpen(true);
+      htmlReporter.config().setDocumentTitle("AutomationTesting.in Demo Report");
+      htmlReporter.config().setReportName("My Own Report");
+      htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP);
+      htmlReporter.config().setTheme(Theme.DARK);
+	 
+	System.setProperty("webdriver.chrome.driver", "D:/plaban/chromedriver_win32/chromedriver.exe");  
+	driver=new ChromeDriver();
+	driver.manage().window().maximize();
+	driver.get("http://52.74.66.238");
+	
+	driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+	
+  }
+
+  @AfterTest
+  public void afterTest(ITestResult result) {
+	  if(result.getStatus() == ITestResult.FAILURE)
+      {
+          test.log(Status.FAIL, MarkupHelper.createLabel(result.getName()+" Test case FAILED due to below issues:", ExtentColor.RED));
+          test.fail(result.getThrowable());
+      }
+      else if(result.getStatus() == ITestResult.SUCCESS)
+      {
+          test.log(Status.PASS, MarkupHelper.createLabel(result.getName()+" Test Case PASSED", ExtentColor.GREEN));
+      }
+      else
+      {
+          test.log(Status.SKIP, MarkupHelper.createLabel(result.getName()+" Test Case SKIPPED", ExtentColor.ORANGE));
+          test.skip(result.getThrowable());
+
+    	  extent.flush();
+    	  
+    	driver.close();
+    	driver.quit();
+      } 
+	  
+	
+  }
+
+}

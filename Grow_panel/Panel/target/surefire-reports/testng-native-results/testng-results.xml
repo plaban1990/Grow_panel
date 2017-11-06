@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="13174" started-at="2017-08-18T06:03:16Z" finished-at="2017-08-18T06:03:29Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13174" started-at="2017-08-18T06:03:16Z" finished-at="2017-08-18T06:03:29Z">
+      <class name="growfit.Panel.Testcase1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:growfit.Panel.Testcase1@15975490]" name="beforeTest" is-config="true" duration-ms="9642" started-at="2017-08-18T11:33:16Z" finished-at="2017-08-18T11:33:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:growfit.Panel.Testcase1@15975490]" name="f" duration-ms="2" started-at="2017-08-18T11:33:26Z" finished-at="2017-08-18T11:33:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:growfit.Panel.Testcase1@15975490]" name="aftermethod" is-config="true" duration-ms="7" started-at="2017-08-18T11:33:26Z" finished-at="2017-08-18T11:33:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=f status=SUCCESS method=Testcase1.f()[pri:0, instance:growfit.Panel.Testcase1@15975490] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:growfit.Panel.Testcase1@15975490]" name="afterTest" is-config="true" duration-ms="3500" started-at="2017-08-18T11:33:26Z" finished-at="2017-08-18T11:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- growfit.Panel.Testcase1 -->
+      <class name="growfit.Panel.BaseTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:growfit.Panel.BaseTest@47f6473]" name="beforeSuite" is-config="true" duration-ms="535" started-at="2017-08-18T11:33:15Z" finished-at="2017-08-18T11:33:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:growfit.Panel.BaseTest@47f6473]" name="afterSuite" is-config="true" duration-ms="4" started-at="2017-08-18T11:33:29Z" finished-at="2017-08-18T11:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- growfit.Panel.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
