@@ -1,0 +1,1584 @@
+{
+    "monday": {
+        "data": [
+            {
+                "date": "2018-01-15",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Durhum Wheat Pasta in Casein Enriched  Spinach Pesto with Veg",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 75,
+                            "fats": 12,
+                            "fiber": 12,
+                            "proteins": 23,
+                            "total_calories": 504
+                        }
+                    },
+                    {
+                        "description": "Curcumin & Piperine Infused with Mango Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 1,
+                            "fiber": 5,
+                            "proteins": 2,
+                            "total_calories": 27
+                        }
+                    },
+                    {
+                        "description": "Italian Almond Flax Cracker with MCT Dip",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 6,
+                            "fats": 14,
+                            "fiber": 2,
+                            "proteins": 10,
+                            "total_calories": 191
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53jqxM43b69_v_M",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-15",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Durum Wheat Pasta in Casien Enriched Spinach Pesto with Chicken",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 75,
+                            "fats": 18,
+                            "fiber": 12,
+                            "proteins": 36,
+                            "total_calories": 610
+                        }
+                    },
+                    {
+                        "description": "Italian Almond Flax Cracker with MCT Dip",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 6,
+                            "fats": 14,
+                            "fiber": 2,
+                            "proteins": 10,
+                            "total_calories": 191
+                        }
+                    },
+                    {
+                        "description": "Curcumin & Piperine Infused with Mango Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 1,
+                            "fiber": 5,
+                            "proteins": 2,
+                            "total_calories": 27
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53kFLu4VPhsdogD",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-15",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Kadhai Mix Veg+SCA Roti",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 56,
+                            "fats": 12,
+                            "fiber": 12,
+                            "proteins": 22,
+                            "total_calories": 424
+                        }
+                    },
+                    {
+                        "description": "Italian Almond Flax Cracker with MCT Dip",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 6,
+                            "fats": 14,
+                            "fiber": 2,
+                            "proteins": 10,
+                            "total_calories": 191
+                        }
+                    },
+                    {
+                        "description": "Curcumin & Piperine Infused with Mango Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 1,
+                            "fiber": 5,
+                            "proteins": 2,
+                            "total_calories": 27
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53kFLu4VPhsdogE",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-15",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Kadhai Mix Chicken+SCA Roti",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 53,
+                            "fats": 14,
+                            "fiber": 12,
+                            "proteins": 29,
+                            "total_calories": 458
+                        }
+                    },
+                    {
+                        "description": "Italian Almond Flax Cracker with MCT Dip",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 6,
+                            "fats": 14,
+                            "fiber": 2,
+                            "proteins": 10,
+                            "total_calories": 191
+                        }
+                    },
+                    {
+                        "description": "Curcumin & Piperine Infused with Mango Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 1,
+                            "fiber": 5,
+                            "proteins": 2,
+                            "total_calories": 27
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53kFLu4VPhsdogF",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-15",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Raj Bhog Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "lunch-smoothie",
+                "menu_id": "-L2nO53kFLu4VPhsdogG",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-15",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Raj Bhog Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "dinner-smoothie",
+                "menu_id": "-L2nO53kFLu4VPhsdogH",
+                "protocol": "stay-fit"
+            }
+        ]
+    },
+    "tuesday": {
+        "data": [
+            {
+                "date": "2018-01-16",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Greek Yogurt Marinated Veg Wrap",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 48,
+                            "fats": 18,
+                            "fiber": 16,
+                            "proteins": 19,
+                            "total_calories": 434
+                        }
+                    },
+                    {
+                        "description": "Rose Flavoured Nootropic Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 3,
+                            "fats": 0,
+                            "fiber": 16,
+                            "proteins": 1,
+                            "total_calories": 21
+                        }
+                    },
+                    {
+                        "description": "Ghee Roasted Almonds",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 12,
+                            "fiber": 6,
+                            "proteins": 6,
+                            "total_calories": 142
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53kFLu4VPhsdogI",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-16",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Greek Yogurt Marinated Chicken Wrap",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 44,
+                            "fats": 19,
+                            "fiber": 15,
+                            "proteins": 23,
+                            "total_calories": 443
+                        }
+                    },
+                    {
+                        "description": "Ghee Roasted Almonds",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 12,
+                            "fiber": 6,
+                            "proteins": 6,
+                            "total_calories": 142
+                        }
+                    },
+                    {
+                        "description": "Rose Flavoured Nootropic Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 3,
+                            "fats": 0,
+                            "fiber": 16,
+                            "proteins": 1,
+                            "total_calories": 21
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53kFLu4VPhsdogJ",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-16",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Chana Idli + Mix Veg Sambhar + Tomato Chutney",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 48,
+                            "fats": 18,
+                            "fiber": 8,
+                            "proteins": 26,
+                            "total_calories": 460
+                        }
+                    },
+                    {
+                        "description": "Ghee Roasted Almonds",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 12,
+                            "fiber": 6,
+                            "proteins": 6,
+                            "total_calories": 142
+                        }
+                    },
+                    {
+                        "description": "Rose Flavoured Nootropic Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 3,
+                            "fats": 0,
+                            "fiber": 16,
+                            "proteins": 1,
+                            "total_calories": 21
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53kFLu4VPhsdogK",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-16",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Chana Idli + Chicken Sambhar + Tomato Chutney",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 40,
+                            "fats": 24,
+                            "fiber": 6,
+                            "proteins": 32,
+                            "total_calories": 506
+                        }
+                    },
+                    {
+                        "description": "Ghee Roasted Almonds",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 12,
+                            "fiber": 6,
+                            "proteins": 6,
+                            "total_calories": 142
+                        }
+                    },
+                    {
+                        "description": "Rose Flavoured Nootropic Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 3,
+                            "fats": 0,
+                            "fiber": 16,
+                            "proteins": 1,
+                            "total_calories": 21
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53kFLu4VPhsdogL",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-16",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Orange Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "lunch-smoothie",
+                "menu_id": "-L2nO53kFLu4VPhsdogM",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-16",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Orange Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "dinner-smoothie",
+                "menu_id": "-L2nO53kFLu4VPhsdogN",
+                "protocol": "stay-fit"
+            }
+        ]
+    },
+    "wednesday": {
+        "data": [
+            {
+                "date": "2018-01-17",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Grill Veg SCA Pizza",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 26,
+                            "fats": 20,
+                            "fiber": 5,
+                            "proteins": 34,
+                            "total_calories": 422
+                        }
+                    },
+                    {
+                        "description": "Tender Coconut Water",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 1,
+                            "fats": 0,
+                            "fiber": 8,
+                            "proteins": 2,
+                            "total_calories": 15
+                        }
+                    },
+                    {
+                        "description": "High Protein Brownie",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 15,
+                            "fats": 4,
+                            "fiber": 8,
+                            "proteins": 18,
+                            "total_calories": 171
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53kFLu4VPhsdogO",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-17",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Grill Chicken SCA Pizza",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 24,
+                            "fats": 21,
+                            "fiber": 3,
+                            "proteins": 37,
+                            "total_calories": 434
+                        }
+                    },
+                    {
+                        "description": "High Protein Brownie",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 15,
+                            "fats": 4,
+                            "fiber": 8,
+                            "proteins": 18,
+                            "total_calories": 171
+                        }
+                    },
+                    {
+                        "description": "Tender Coconut Water",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 1,
+                            "fats": 0,
+                            "fiber": 8,
+                            "proteins": 2,
+                            "total_calories": 15
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53lOJfWCMtVc0Ww",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-17",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Bamboo Seed Fried Rice with Tofu & Veggies",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 78,
+                            "fats": 13,
+                            "fiber": 12,
+                            "proteins": 26,
+                            "total_calories": 537
+                        }
+                    },
+                    {
+                        "description": "High Protein Brownie",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 15,
+                            "fats": 4,
+                            "fiber": 8,
+                            "proteins": 18,
+                            "total_calories": 171
+                        }
+                    },
+                    {
+                        "description": "Tender Coconut Water",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 1,
+                            "fats": 0,
+                            "fiber": 8,
+                            "proteins": 2,
+                            "total_calories": 15
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53lOJfWCMtVc0Wx",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-17",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Bamboo Seed Fried Rice with Chicken & Veggies",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 73,
+                            "fats": 16,
+                            "fiber": 14,
+                            "proteins": 32,
+                            "total_calories": 568
+                        }
+                    },
+                    {
+                        "description": "High Protein Brownie",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 15,
+                            "fats": 4,
+                            "fiber": 8,
+                            "proteins": 18,
+                            "total_calories": 171
+                        }
+                    },
+                    {
+                        "description": "Tender Coconut Water",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 1,
+                            "fats": 0,
+                            "fiber": 8,
+                            "proteins": 2,
+                            "total_calories": 15
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53lOJfWCMtVc0Wy",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-17",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Peanut Butter Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "lunch-smoothie",
+                "menu_id": "-L2nO53lOJfWCMtVc0Wz",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-17",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Peanut Butter Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "dinner-smoothie",
+                "menu_id": "-L2nO53lOJfWCMtVc0X-",
+                "protocol": "stay-fit"
+            }
+        ]
+    },
+    "thursday": {
+        "data": [
+            {
+                "date": "2018-01-18",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Foxtail Millet Vangi Bhat\n",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 68,
+                            "fats": 12,
+                            "fiber": 12,
+                            "proteins": 25,
+                            "total_calories": 480
+                        }
+                    },
+                    {
+                        "description": "Detox Kacchi Kairi Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 0,
+                            "fiber": 10,
+                            "proteins": 1,
+                            "total_calories": 15
+                        }
+                    },
+                    {
+                        "description": "Mixed Peri Peri TrailMix ",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 12,
+                            "fiber": 8,
+                            "proteins": 6,
+                            "total_calories": 151
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53lOJfWCMtVc0X0",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-18",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Foxtail Millet Chicken Vangi Bhat\n",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 61,
+                            "fats": 18,
+                            "fiber": 10,
+                            "proteins": 30,
+                            "total_calories": 526
+                        }
+                    },
+                    {
+                        "description": "Mixed Peri Peri TrailMix ",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 12,
+                            "fiber": 8,
+                            "proteins": 6,
+                            "total_calories": 151
+                        }
+                    },
+                    {
+                        "description": "Detox Kacchi Kairi Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 0,
+                            "fiber": 10,
+                            "proteins": 1,
+                            "total_calories": 15
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53lOJfWCMtVc0X1",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-18",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Mix veggie Satay with Protein Enhanced Peanut Dip",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 14,
+                            "fats": 23,
+                            "fiber": 18,
+                            "proteins": 30,
+                            "total_calories": 388
+                        }
+                    },
+                    {
+                        "description": "Mixed Peri Peri TrailMix ",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 12,
+                            "fiber": 8,
+                            "proteins": 6,
+                            "total_calories": 151
+                        }
+                    },
+                    {
+                        "description": "Detox Kacchi Kairi Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 0,
+                            "fiber": 10,
+                            "proteins": 1,
+                            "total_calories": 15
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53lOJfWCMtVc0X2",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-18",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Chicken Satay with Peanut Dip",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 10,
+                            "fats": 29,
+                            "fiber": 10,
+                            "proteins": 36,
+                            "total_calories": 448
+                        }
+                    },
+                    {
+                        "description": "Mixed Peri Peri TrailMix ",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 12,
+                            "fiber": 8,
+                            "proteins": 6,
+                            "total_calories": 151
+                        }
+                    },
+                    {
+                        "description": "Detox Kacchi Kairi Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 0,
+                            "fiber": 10,
+                            "proteins": 1,
+                            "total_calories": 15
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53lOJfWCMtVc0X3",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-18",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Chocolate Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "lunch-smoothie",
+                "menu_id": "-L2nO53lOJfWCMtVc0X4",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-18",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Chocolate Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "dinner-smoothie",
+                "menu_id": "-L2nO53lOJfWCMtVc0X5",
+                "protocol": "stay-fit"
+            }
+        ]
+    },
+    "friday": {
+        "data": [
+            {
+                "date": "2018-01-19",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": " Veg Chettinad with Slow carb roti",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 20,
+                            "fats": 18,
+                            "fiber": 10,
+                            "proteins": 38,
+                            "total_calories": 397
+                        }
+                    },
+                    {
+                        "description": "Pudina Flavoured Electrolyte Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 1,
+                            "fats": 1,
+                            "fiber": 8,
+                            "proteins": 1,
+                            "total_calories": 20
+                        }
+                    },
+                    {
+                        "description": "Carrot SCA cake",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 24,
+                            "fats": 8,
+                            "fiber": 16,
+                            "proteins": 12,
+                            "total_calories": 221
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53lOJfWCMtVc0X6",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-19",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": " Chicken Chettinad with Slow carb roti",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 15,
+                            "fats": 21,
+                            "fiber": 8,
+                            "proteins": 38,
+                            "total_calories": 404
+                        }
+                    },
+                    {
+                        "description": "Carrot SCA cake",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 24,
+                            "fats": 8,
+                            "fiber": 16,
+                            "proteins": 12,
+                            "total_calories": 221
+                        }
+                    },
+                    {
+                        "description": "Pudina Flavoured Electrolyte Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 1,
+                            "fats": 1,
+                            "fiber": 8,
+                            "proteins": 1,
+                            "total_calories": 20
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53mvbRg-LfIOpEe",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-19",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Hi Protein Cauli-Falafel Veggie Wrap",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 38,
+                            "fats": 18,
+                            "fiber": 16,
+                            "proteins": 32,
+                            "total_calories": 447
+                        }
+                    },
+                    {
+                        "description": "Carrot SCA cake",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 24,
+                            "fats": 8,
+                            "fiber": 16,
+                            "proteins": 12,
+                            "total_calories": 221
+                        }
+                    },
+                    {
+                        "description": "Pudina Flavoured Electrolyte Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 1,
+                            "fats": 1,
+                            "fiber": 8,
+                            "proteins": 1,
+                            "total_calories": 20
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53mvbRg-LfIOpEf",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-19",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Hi Protein Cauli-Falafel Chicken Wrap",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 34,
+                            "fats": 16,
+                            "fiber": 12,
+                            "proteins": 36,
+                            "total_calories": 428
+                        }
+                    },
+                    {
+                        "description": "Carrot SCA cake",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 24,
+                            "fats": 8,
+                            "fiber": 16,
+                            "proteins": 12,
+                            "total_calories": 221
+                        }
+                    },
+                    {
+                        "description": "Pudina Flavoured Electrolyte Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 1,
+                            "fats": 1,
+                            "fiber": 8,
+                            "proteins": 1,
+                            "total_calories": 20
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53mvbRg-LfIOpEg",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-19",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Coffee Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "lunch-smoothie",
+                "menu_id": "-L2nO53mvbRg-LfIOpEh",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-19",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Coffee Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "dinner-smoothie",
+                "menu_id": "-L2nO53mvbRg-LfIOpEi",
+                "protocol": "stay-fit"
+            }
+        ]
+    },
+    "saturday": {
+        "data": [
+            {
+                "date": "2018-01-20",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Mix Veg SCA Paratha",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 45,
+                            "fats": 10,
+                            "fiber": 15,
+                            "proteins": 29,
+                            "total_calories": 391
+                        }
+                    },
+                    {
+                        "description": "Kokam Jeera masala",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 3,
+                            "fats": 2,
+                            "fiber": 4,
+                            "proteins": 2,
+                            "total_calories": 40
+                        }
+                    },
+                    {
+                        "description": "Cauli dahi vada",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 16,
+                            "fiber": 8,
+                            "proteins": 12,
+                            "total_calories": 211
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53mvbRg-LfIOpEj",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-20",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Mince Chicken Paratha",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 40,
+                            "fats": 15,
+                            "fiber": 10,
+                            "proteins": 35,
+                            "total_calories": 438
+                        }
+                    },
+                    {
+                        "description": "Cauli dahi vada",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 16,
+                            "fiber": 8,
+                            "proteins": 12,
+                            "total_calories": 211
+                        }
+                    },
+                    {
+                        "description": "Kokam Jeera masala",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 3,
+                            "fats": 2,
+                            "fiber": 4,
+                            "proteins": 2,
+                            "total_calories": 40
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53mvbRg-LfIOpEk",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-20",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Protein enriched Thai Soba Noodles in Peanut Sauce",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 59,
+                            "fats": 12,
+                            "fiber": 13,
+                            "proteins": 22,
+                            "total_calories": 436
+                        }
+                    },
+                    {
+                        "description": "Cauli dahi vada",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 16,
+                            "fiber": 8,
+                            "proteins": 12,
+                            "total_calories": 211
+                        }
+                    },
+                    {
+                        "description": "Kokam Jeera masala",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 3,
+                            "fats": 2,
+                            "fiber": 4,
+                            "proteins": 2,
+                            "total_calories": 40
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53mvbRg-LfIOpEl",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-20",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Protein enriched Thai Soba Noodles with Chicken in Peanut Sauce",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 50,
+                            "fats": 18,
+                            "fiber": 12,
+                            "proteins": 30,
+                            "total_calories": 486
+                        }
+                    },
+                    {
+                        "description": "Cauli dahi vada",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 16,
+                            "fiber": 8,
+                            "proteins": 12,
+                            "total_calories": 211
+                        }
+                    },
+                    {
+                        "description": "Kokam Jeera masala",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 3,
+                            "fats": 2,
+                            "fiber": 4,
+                            "proteins": 2,
+                            "total_calories": 40
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53mvbRg-LfIOpEm",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-20",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Thandai Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 26,
+                            "fiber": 3,
+                            "proteins": 15,
+                            "total_calories": 311
+                        }
+                    }
+                ],
+                "meal": "lunch-smoothie",
+                "menu_id": "-L2nO53mvbRg-LfIOpEn",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-20",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Thandai Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 4,
+                            "fats": 26,
+                            "fiber": 3,
+                            "proteins": 15,
+                            "total_calories": 311
+                        }
+                    }
+                ],
+                "meal": "dinner-smoothie",
+                "menu_id": "-L2nO53mvbRg-LfIOpEo",
+                "protocol": "stay-fit"
+            }
+        ]
+    },
+    "sunday": {
+        "data": [
+            {
+                "date": "2018-01-21",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Beetroot Veg Dimsum",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 47,
+                            "fats": 16,
+                            "fiber": 12,
+                            "proteins": 24,
+                            "total_calories": 432
+                        }
+                    },
+                    {
+                        "description": "Lemon Ginger  Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 1,
+                            "fiber": 20,
+                            "proteins": 4,
+                            "total_calories": 39
+                        }
+                    },
+                    {
+                        "description": "Keto Bar (40g)",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 6,
+                            "fats": 8,
+                            "fiber": 5,
+                            "proteins": 18,
+                            "total_calories": 170
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53mvbRg-LfIOpEp",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-21",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "Beetroot Chicken Dimsum",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 57,
+                            "fats": 18,
+                            "fiber": 10,
+                            "proteins": 33,
+                            "total_calories": 525
+                        }
+                    },
+                    {
+                        "description": "Keto Bar (40g)",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 6,
+                            "fats": 8,
+                            "fiber": 5,
+                            "proteins": 18,
+                            "total_calories": 170
+                        }
+                    },
+                    {
+                        "description": "Lemon Ginger  Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 1,
+                            "fiber": 20,
+                            "proteins": 4,
+                            "total_calories": 39
+                        }
+                    }
+                ],
+                "meal": "lunch",
+                "menu_id": "-L2nO53mvbRg-LfIOpEq",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-21",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "High Protein Minestrone Veg Soup",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 45,
+                            "fats": 12,
+                            "fiber": 8,
+                            "proteins": 18,
+                            "total_calories": 363
+                        }
+                    },
+                    {
+                        "description": "Keto Bar (40g)",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 6,
+                            "fats": 8,
+                            "fiber": 5,
+                            "proteins": 18,
+                            "total_calories": 170
+                        }
+                    },
+                    {
+                        "description": "Lemon Ginger  Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 1,
+                            "fiber": 20,
+                            "proteins": 4,
+                            "total_calories": 39
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53noIloFKvyjCb5",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-21",
+                "food_pref": "nonveg",
+                "items": [
+                    {
+                        "description": "High Protein Minestrone Chicken Soup",
+                        "food_pref": "nonveg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 42,
+                            "fats": 14,
+                            "fiber": 8,
+                            "proteins": 22,
+                            "total_calories": 385
+                        }
+                    },
+                    {
+                        "description": "Keto Bar (40g)",
+                        "food_pref": "veg",
+                        "item_name": "snack",
+                        "nutrition_info": {
+                            "carbohydrates": 6,
+                            "fats": 8,
+                            "fiber": 5,
+                            "proteins": 18,
+                            "total_calories": 170
+                        }
+                    },
+                    {
+                        "description": "Lemon Ginger  Drink",
+                        "food_pref": "veg",
+                        "item_name": "drink",
+                        "nutrition_info": {
+                            "carbohydrates": 2,
+                            "fats": 1,
+                            "fiber": 20,
+                            "proteins": 4,
+                            "total_calories": 39
+                        }
+                    }
+                ],
+                "meal": "dinner",
+                "menu_id": "-L2nO53noIloFKvyjCb6",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-21",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Butterscotch Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "lunch-smoothie",
+                "menu_id": "-L2nO53noIloFKvyjCb7",
+                "protocol": "stay-fit"
+            },
+            {
+                "date": "2018-01-21",
+                "food_pref": "veg",
+                "items": [
+                    {
+                        "description": "Butterscotch Smoothie",
+                        "food_pref": "veg",
+                        "item_name": "main_course",
+                        "nutrition_info": {
+                            "carbohydrates": 8,
+                            "fats": 35,
+                            "fiber": 3,
+                            "proteins": 27,
+                            "total_calories": 456
+                        }
+                    }
+                ],
+                "meal": "dinner-smoothie",
+                "menu_id": "-L2nO53noIloFKvyjCb8",
+                "protocol": "stay-fit"
+            }
+        ]
+    }
+}
